@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: Currently working as Software Developer at Anadolu Sigorta.
+- :computer: Currently working as Software Developer(Java) at Anadolu Sigorta.
 - :books: Improving my skills on JS techs. (NodeJS, Vue, React)
 - :clapper: Content creator on YT and TW.
 - :mailbox_with_mail: How to reach me: baris.gunduz@devstup.org
