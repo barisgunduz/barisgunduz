@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- :computer: I’m currently working as Software Developer at Anadolu Sigorta.
-- :books: I’m currently improving my skills on JS techs. (NodeJS, VueJS, React)
-- :clapper: I'm also a content creator on YT and TW.
+- :computer: Currently working as Software Developer at Anadolu Sigorta.
+- :books: Improving my skills on JS techs. (NodeJS, VueJS, React)
+- :clapper: Content creator on YT and TW.
 - :mailbox_with_mail: How to reach me: baris.gunduz@devstup.org
-- :calling: My social networks: instagram.com/barisgunduz17 - twitter.com/baris_gunduz
+- :calling: Social networks: instagram.com/barisgunduz17 - twitter.com/baris_gunduz
 
 <!--
 **barisgunduz/barisgunduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
