@@ -4,7 +4,7 @@
 - :books: Improving my skills on JS techs. (NodeJS, Vue, React)
 - :clapper: Content creator on YT and TW.
 - :mailbox_with_mail: How to reach me: baris.gunduz@devstup.org
-- :calling: Social networks: instagram.com/barisgunduz17 - twitter.com/baris_gunduz
+- :calling: Social networks: [instagram](instagram.com/barisgunduz17) - [twitter](twitter.com/baris_gunduz)
 
 <!--
 **barisgunduz/barisgunduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
