@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: Updating...
+- :computer: Working status : Updating...
 - :books: Improving my skills on JS techs. (NodeJS, Vue, React)
 - :clapper: Content creator on YT and TW.
 - :mailbox_with_mail: How to reach me: baris.gunduz@devstup.org
