@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :books: Improving my skills on JS techs. (NodeJS, Vue, React)
+- :books: Javascript enthusiast. (NodeJS, Vue, React)
 - :clapper: Content creator on YT and TW.
 - :mailbox_with_mail: How to reach me: baris.gunduz@devstup.org
 - :calling: Social networks: [instagram](https://instagram.com/barisgunduz17) - [twitter](https://twitter.com/baris_gunduz) - [youtube](https://www.youtube.com/channel/UCmktzKyNBK9V5cO209ydEPA)
