@@ -2,7 +2,7 @@
 
 - :books: Javascript enthusiast. (NodeJS, Vue, React)
 - :clapper: Content creator on YT and TW.
-- :mailbox_with_mail: How to reach me: baris.gunduz@devstup.org
+- :mailbox_with_mail: Business Inquiries: baris.gunduz@devstup.org
 - :briefcase: [Linkedin profile](https://www.linkedin.com/in/barisgunduz/)
 - :calling: Social networks: [instagram](https://instagram.com/barisgunduzofficial) - [twitter](https://twitter.com/baris_gunduz) - [youtube](https://www.youtube.com/barisgunduzofficial)
 
