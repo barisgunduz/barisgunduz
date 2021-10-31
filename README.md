@@ -57,11 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch üzerinden para aklama olayı! #temiztwitch](https://www.barisgunduz.com/twitch-uzerinden-para-aklama-olayi-temiztwitch/)
 - [Muazzam Spotify Listesi](https://www.barisgunduz.com/muazzam-spotify-listesi/)
 - [Yayıncılıkta 5 Önemli Kural](https://www.barisgunduz.com/yayincilikta-5-onemli-kural/)
 - [Youtube Vergisi! Youtube kanalı açtım vergi ne zaman vereceğim?](https://www.barisgunduz.com/youtube-vergisi-youtube-kanali-actim-vergi-ne-zaman-verecegim/)
 - [Youtuber olmak istiyorum ama konu bulamıyorum](https://www.barisgunduz.com/youtuber-olmak-istiyorum-ama-konu-bulamiyorum/)
-- [DMCA Nedir? Yayınlarda ve videolarda telif yememek için ne yapmak gerekir?](https://www.barisgunduz.com/dmca-nedir-yayinlarda-ve-videolarda-telif-yememek-icin-ne-yapmak-gerekir/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.barisgunduz.com)
