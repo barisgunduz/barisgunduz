@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently freelancer.
 - 👯 I’m developing with JS based technologies.
-- 🥅 2021 Goals: Being a goddamn good fullstack developer.
+- 🥅 2022 Goals: Being a goddamn good fullstack developer.
 - ⚡ I love sports, music, art and games!
 
 ### Connect with me:
@@ -58,12 +58,7 @@
 
 ---
 
-[![barisgunduz's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisgunduz)](https://github.com/barisgunduz/github-readme-stats)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisgunduz)](https://github.com/barisgunduz/github-readme-stats)
-
 
 
 [website]: https://www.barisgunduz.com
