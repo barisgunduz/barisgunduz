@@ -43,6 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Yayıncılıkta 5 Önemli Kural](https://www.youtube.com/watch?v=tK2VexmIuSs)
+- [Youtube Vergisi - Ne zaman vergi ödemem gerekiyor?](https://www.youtube.com/watch?v=b9DvQBaB2Ak)
+- [Youtuber Olmak İstiyorum fakat Konu Bulamıyorum!  Kanal Konusu Önerileri](https://www.youtube.com/watch?v=xpwEcVapxzc)
+- [Düzenli Paylaşım Yapın! Takipçi sayının artması için önemli!](https://www.youtube.com/watch?v=xqfP97BV19Q)
+- [Neden Youtube Kanalı Açmalısın?](https://www.youtube.com/watch?v=xZE2RSBUivY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/barisgunduzofficial)
@@ -52,6 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch üzerinden para aklama olayı! #temiztwitch](https://www.barisgunduz.com/twitch-uzerinden-para-aklama-olayi-temiztwitch/)
+- [Muazzam Spotify Listesi](https://www.barisgunduz.com/muazzam-spotify-listesi/)
+- [Yayıncılıkta 5 Önemli Kural](https://www.barisgunduz.com/yayincilikta-5-onemli-kural/)
+- [Youtube Vergisi! Youtube kanalı açtım vergi ne zaman vereceğim?](https://www.barisgunduz.com/youtube-vergisi-youtube-kanali-actim-vergi-ne-zaman-verecegim/)
+- [Youtuber olmak istiyorum ama konu bulamıyorum](https://www.barisgunduz.com/youtuber-olmak-istiyorum-ama-konu-bulamiyorum/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.barisgunduz.com)
