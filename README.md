@@ -1,5 +1,5 @@
 Hi there ✋!  
-I'm [Barış Gündüz](https://www.barisgunduz.com/)
+I'm [Barış Gündüz](https://www.barisgunduz.com/). Software engineer, amateur photographer, part time content creator.
 
 ## About Me
 
@@ -40,6 +40,24 @@ I am interested in web and mobile technologies. I have been working on web devel
     -   In addition to my work on content production on platforms such as youtube, twitch and spotify, I have 3 blog sites of my own. On these sites, I produce content on software and technology, healthy lifestyle and content production, and personal things. I do the subjects, content, video shooting and editing of the content I produce on all platforms.
 
 ---
+
+## Work Experience
+
+| Anadolu Sigorta | Software Developer |
+|:---------:|:----------------------------------:|
+| (09/2019 - 05/2021) | Java, Oracle, JBoss |
+
+| Segmentify | Front End Developer |
+|:---------:|:----------------------------------:|
+| (09/2018 - 01/2019) | Javascript, Nodejs |
+
+| Genart Medya | AdTech Engineer |
+|:---------:|:----------------------------------:|
+| (12/2015 - 08/2018) | JS, Php, Css, Animation Libraries, API, Adobe |
+
+| CGN Yazılım ve Bilişim Hizmetleri | Web Developer |
+|:---------:|:----------------------------------:|
+| (06/2012 - 04/2015) | Html, Css, JS, Jquery, Php, Adobe |
 
 ## Tech Stack I Use
 
