@@ -43,21 +43,50 @@ I am interested in web and mobile technologies. I have been working on web devel
 
 ## Work Experience
 
-| Anadolu Sigorta | Software Developer |
-|:---------:|:----------------------------------:|
-| (09/2019 - 05/2021) | Java, Oracle, JBoss |
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Company</th>
+<th>Job Title</th>
+<th>Period</th>
+<th>Tech Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Anadolu Sigorta</td>
+<td>Software Developer</td>
+<td>(09/2019 - 05/2021)</td>
+<td>Java, Oracle, JBoss, Bitbucket, Jira</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Segmentify</td>
+<td>Front End Developer</td>
+<td>(09/2018 - 01/2019)</td>
+<td>Javascript, Nodejs, Css, G.Analytics, Trello</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Genart Medya</td>
+<td>AdTech Engineer</td>
+<td>(12/2015 - 08/2018)</td>
+<td>JS, Php, Css, Animation Libraries, API, Adobe, Trello</td>
+</tr>
+<tr>
+<td>4</td>
+<td>CGN Yazılım ve Bilişim Hizmetleri</td>
+<td>Web Developer</td>
+<td>(06/2012 - 04/2015)</td>
+<td>Html, Css, JS, Jquery, Php, Adobe, SEO, Wunderlist</td>
+</tr>
 
-| Segmentify | Front End Developer |
-|:---------:|:----------------------------------:|
-| (09/2018 - 01/2019) | Javascript, Nodejs |
+</tbody>
+</table>
 
-| Genart Medya | AdTech Engineer |
-|:---------:|:----------------------------------:|
-| (12/2015 - 08/2018) | JS, Php, Css, Animation Libraries, API, Adobe |
-
-| CGN Yazılım ve Bilişim Hizmetleri | Web Developer |
-|:---------:|:----------------------------------:|
-| (06/2012 - 04/2015) | Html, Css, JS, Jquery, Php, Adobe |
+---
 
 ## Tech Stack I Use
 
