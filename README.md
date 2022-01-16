@@ -1,78 +1,72 @@
-### Hi there, I'm Barış. 👋
+Hi there ✋!  
+I'm [Barış Gündüz](https://www.barisgunduz.com/)
 
-[![Website](https://img.shields.io/website?label=barisgunduz.com&style=for-the-badge&url=https%3A%2F%2Fbarisgunduz.com)](https://www.barisgunduz.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/baris_gunduz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/barisgunduz&screen_name=baris_gunduz)
+## About Me
 
-## I'm an Engineer, Content Creator, Tech Freak and all the cool stuff!!
+I am interested in web and mobile technologies. I have been working on web development and internet advertising for about 9 years. I specialize in web technologies and management. I gave technology and advertising consulting to many companies. I still give support to some of them. There are some projects related to my own. Most of them are about content creation. They are all about software, healthy lifestyle and content creation business. Projects are all under [Gündüz Medya](https://www.gunduzmedya.com/) brand.
 
-- 🌱 I’m currently freelancer.
-- 👯 I’m developing with JS based technologies.
-- 🥅 2022 Goals: Being a goddamn good fullstack developer.
-- ⚡ I love sports, music, art and games!
+---
 
-### Connect with me:
+## Connect With Me
 
-[<img align="left" alt="barisgunduz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="barisgunduz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="barisgunduz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="barisgunduz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="barisgunduz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
+<p>
+<a href="https://www.barisgunduz.com" >
+<img align="left" alt="barisgunduz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
+<a href="https://www.youtube.com/barisgunduzofficial" >
+<img align="left" alt="BG | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://twitter.com/baris_gunduz" >
+<img align="left" alt="BG | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/barisgunduz/" >
+<img align="left" alt="BG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/barisgunduzofficial" >
+<img align="left" alt="BG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</p>
 <br />
 
 ---
 
-### 📺 Latest YouTube Videos
+## My Expertise
 
-<!-- YOUTUBE:START -->
-- [Yayıncılıkta 5 Önemli Kural](https://www.youtube.com/watch?v=tK2VexmIuSs)
-- [Youtube Vergisi - Ne zaman vergi ödemem gerekiyor?](https://www.youtube.com/watch?v=b9DvQBaB2Ak)
-- [Youtuber Olmak İstiyorum fakat Konu Bulamıyorum!  Kanal Konusu Önerileri](https://www.youtube.com/watch?v=xpwEcVapxzc)
-- [Düzenli Paylaşım Yapın! Takipçi sayının artması için önemli!](https://www.youtube.com/watch?v=xqfP97BV19Q)
-- [Neden Youtube Kanalı Açmalısın?](https://www.youtube.com/watch?v=xZE2RSBUivY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/barisgunduzofficial)
+-   Web Development
+    -   In about 9 years, I have produced both corporate and individual internet projects, hundreds of advertising campaigns, modules and code blocks. With my front-end development-oriented studies, I have improved myself in both coding technologies and design studies. In my work on the backend, I am trying to improve myself in developing api with crud operations. As a database, I have worked with both mysql and mongodb, large and small.
+-   Project Management
+    -   Especially when I was working in the advertising industry, I produced advertising projects for almost all companies in the country. I took part in the infrastructure, design and projects of user-interactive dynamic ads through premium ads with different models on different websites. Apart from this work, I gave project development support to many companies as a freelancer.
+-   Content Creation
+    -   In addition to my work on content production on platforms such as youtube, twitch and spotify, I have 3 blog sites of my own. On these sites, I produce content on software and technology, healthy lifestyle and content production, and personal things. I do the subjects, content, video shooting and editing of the content I produce on all platforms.
 
 ---
 
-### 📕 Latest Blog Posts
+## Tech Stack I Use
 
-<!-- BLOG-POST-LIST:START -->
-- [Twitch üzerinden para aklama olayı! #temiztwitch](https://www.barisgunduz.com/twitch-uzerinden-para-aklama-olayi-temiztwitch/)
-- [Muazzam Spotify Listesi](https://www.barisgunduz.com/muazzam-spotify-listesi/)
-- [Yayıncılıkta 5 Önemli Kural](https://www.barisgunduz.com/yayincilikta-5-onemli-kural/)
-- [Youtube Vergisi! Youtube kanalı açtım vergi ne zaman vereceğim?](https://www.barisgunduz.com/youtube-vergisi-youtube-kanali-actim-vergi-ne-zaman-verecegim/)
-- [Youtuber olmak istiyorum ama konu bulamıyorum](https://www.barisgunduz.com/youtuber-olmak-istiyorum-ama-konu-bulamiyorum/)
-<!-- BLOG-POST-LIST:END -->
+Our products are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
 
-➡️ [more blog posts...](https://www.barisgunduz.com)
+<p>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</p>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisgunduz)](https://github.com/barisgunduz/github-readme-stats)
+## My Contributions
 
-
-[website]: https://www.barisgunduz.com
-[twitter]: https://twitter.com/baris_gunduz
-[youtube]: https://youtube.com/barisgunduzofficial
-[instagram]: https://instagram.com/barisgunduzofficial
-[linkedin]: https://linkedin.com/in/barisgunduz
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barisgunduz&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisgunduz&layout=compact&theme=cobalt&hide_border=true" />
+</p>
