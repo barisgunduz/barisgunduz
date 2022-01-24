@@ -90,7 +90,7 @@ I am interested in web and mobile technologies. I have been working on web devel
 
 ## Tech Stack I Use
 
-Our products are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
+The tech stack i use in my daily research and development :
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
