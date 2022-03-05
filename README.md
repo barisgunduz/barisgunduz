@@ -56,27 +56,34 @@ I am interested in web and mobile technologies. I have been working on web devel
 <tbody>
 <tr>
 <td>1</td>
+<td>IAS - Industrial Application Software</td>
+<td>Software Developer</td>
+<td>(02/2022 - Now)</td>
+<td>React, Js, Java, Troia, Gitlab</td>
+</tr>
+<tr>
+<td>2</td>
 <td>Anadolu Sigorta</td>
 <td>Software Developer</td>
 <td>(09/2019 - 05/2021)</td>
 <td>Java, Oracle, JBoss, Bitbucket, Jira</td>
 </tr>
 <tr>
-<td>2</td>
+<td>3</td>
 <td>Segmentify</td>
 <td>Front End Developer</td>
 <td>(09/2018 - 01/2019)</td>
 <td>Javascript, Nodejs, Css, G.Analytics, Trello</td>
 </tr>
 <tr>
-<td>3</td>
+<td>4</td>
 <td>Genart Medya</td>
 <td>AdTech Engineer</td>
 <td>(12/2015 - 08/2018)</td>
 <td>JS, Php, Css, Animation Libraries, API, Adobe, Trello</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td>CGN Yazılım ve Bilişim Hizmetleri</td>
 <td>Web Developer</td>
 <td>(06/2012 - 04/2015)</td>
@@ -105,6 +112,7 @@ The tech stack i use in my daily research and development :
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&logo=react&logoColor=35495E" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
