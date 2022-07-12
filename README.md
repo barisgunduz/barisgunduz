@@ -16,13 +16,13 @@ I am interested in web and mobile technologies. I have been working on web devel
 <a href="https://www.youtube.com/barisgunduzofficial" >
 <img align="left" alt="BG | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://twitter.com/baris_gunduz" >
+<a href="https://twitter.com/iambarisgunduz" >
 <img align="left" alt="BG | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/barisgunduz/" >
 <img align="left" alt="BG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/barisgunduzofficial" >
+<a href="https://www.instagram.com/iambarisgunduz" >
 <img align="left" alt="BG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
@@ -33,7 +33,7 @@ I am interested in web and mobile technologies. I have been working on web devel
 ## My Expertise
 
 -   Web Development
-    -   In about 9 years, I have produced both corporate and individual internet projects, hundreds of advertising campaigns, modules and code blocks. With my front-end development-oriented studies, I have improved myself in both coding technologies and design studies. In my work on the backend, I am trying to improve myself in developing api with crud operations. As a database, I have worked with both mysql and mongodb, large and small.
+    -   In about 9 years, I have produced both corporate and individual internet projects, hundreds of advertising campaigns, modules and code blocks. With my front-end development-oriented studies, I have improved myself in both coding technologies and design studies. In my work on the backend, I am trying to improve myself in developing api with crud operations. As a database, I have worked with both mysql, oracle and mongodb large and small.
 -   Project Management
     -   Especially when I was working in the advertising industry, I produced advertising projects for almost all companies in the country. I took part in the infrastructure, design and projects of user-interactive dynamic ads through premium ads with different models on different websites. Apart from this work, I gave project development support to many companies as a freelancer.
 -   Content Creation
