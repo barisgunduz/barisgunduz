@@ -57,7 +57,7 @@ I am interested in web and mobile technologies. I have been working on web devel
 <tr>
 <td>1</td>
 <td>IAS - Industrial Application Software</td>
-<td>Software Developer</td>
+<td>Software Engineer</td>
 <td>(02/2022 - Now)</td>
 <td>React, Js, Java, Troia, Gitlab</td>
 </tr>
