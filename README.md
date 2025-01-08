@@ -8,7 +8,7 @@ I am interested in web and mobile technologies. I have been working on web devel
 
 ---
 
-## Connect With Me 
+## Connect With Me  
 
 <p>
 <a href="https://www.barisgunduz.com" >
