@@ -7,7 +7,7 @@ I am interested in web and mobile technologies. I have been working on web devel
 
 ---
 
-## Connect With Me  
+## Connect With Me
 
 <p>
 <a href="https://www.barisgunduz.com" >
@@ -44,6 +44,7 @@ I am interested in web and mobile technologies. I have been working on web devel
 ## Work Experience
 
 <table>
+
 <thead>
 <tr>
 <th>#</th>
@@ -53,7 +54,9 @@ I am interested in web and mobile technologies. I have been working on web devel
 <th>Tech Stack</th>
 </tr>
 </thead>
+
 <tbody>
+
 <tr>
 <td>1</td>
 <td>Gündüz Medya</td>
@@ -61,37 +64,49 @@ I am interested in web and mobile technologies. I have been working on web devel
 <td>(09/2022 - Now)</td>
 <td>Business and Development</td>
 </tr>
-<tr>
+
 <tr>
 <td>2</td>
+<td>Senswise</td>
+<td>Senior Software Engineer</td>
+<td>(11/2024 - 01/2025)</td>
+<td>React, Nextjs, Nodejs, Postgresql</td>
+</tr>
+
+<tr>
+<td>3</td>
 <td>IAS - Industrial Application Software</td>
 <td>Senior Software Engineer</td>
 <td>(02/2022 - 11/2024)</td>
 <td>React, Js, Java, Troia, Gitlab</td>
 </tr>
+
 <tr>
-<td>3</td>
+<td>4</td>
 <td>Anadolu Sigorta</td>
-<td>Software Developer</td>
+<td>Software Engineer</td>
 <td>(09/2019 - 05/2021)</td>
 <td>Java, Oracle, JBoss, Bitbucket, Jira</td>
 </tr>
+
 <tr>
-<td>4</td>
+<td>5</td>
 <td>Segmentify</td>
 <td>Front End Developer</td>
 <td>(09/2018 - 01/2019)</td>
 <td>Javascript, Nodejs, Css, G.Analytics, Trello</td>
 </tr>
+
 <tr>
-<td>5</td>
+<td>6</td>
 <td>Genart Medya</td>
 <td>AdTech Engineer</td>
 <td>(12/2015 - 08/2018)</td>
 <td>JS, Php, Css, Animation Libraries, API, Adobe, Trello</td>
 </tr>
+
 <tr>
-<td>6</td>
+<td>7</td>
 <td>CGN Yazılım ve Bilişim Hizmetleri</td>
 <td>Web Developer</td>
 <td>(06/2012 - 04/2015)</td>
