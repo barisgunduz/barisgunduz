@@ -18,6 +18,8 @@ These are the main platforms I'm actively developing and curating content for:
   A place for tiny but mighty tools, templates and web utilities.
 - **Esnafon** → [www.esnafon.com](https://www.esnafon.com)  
   A business directory and content platform for local entrepreneurs.
+- **Chrome Extensions** → [Chrome Web Store](https://chromewebstore.google.com/search/g%C3%BCnd%C3%BCz%20medya)  
+  Handy browser tools developed to simplify daily digital tasks.
 
 ### 🌐 Social Profiles  
 Follow me and stay updated with my work and daily content:
