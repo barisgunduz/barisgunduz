@@ -41,7 +41,7 @@ For everything else in one place:
 ## My Expertise
 
 -   Web Development  
-    In about 13 years, I have produced both corporate and individual internet projects, hundreds of advertising campaigns, modules and code blocks. With my front-end development-oriented studies, I have improved myself in both coding technologies and design studies. In my work on the backend, I am trying to improve myself in developing API with CRUD operations. As a database, I have worked with both MySQL, PostgreSQL and MongoDB, large and small.
+    In about 13 years, I have produced both corporate and individual internet projects, hundreds of advertising campaigns, modules and code blocks. With my front-end development-oriented studies (React, NextJS), I have improved myself in both coding technologies and design studies. In my work on the backend (NodeJS), I am trying to improve myself in developing API with CRUD operations. As a database, I have worked with both MySQL, PostgreSQL and MongoDB, large and small.
 -   Project Management  
     Especially when I was working in the advertising industry, I produced advertising projects for almost all companies in the country. I took part in the infrastructure, design and projects of user-interactive dynamic ads through premium ads with different models on different websites. Apart from this work, I gave project development support to many companies as a freelancer.
 -   Content Creation  
