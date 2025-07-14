@@ -7,52 +7,34 @@ I am interested in web and mobile technologies. I have been working on web devel
 
 ---
 
-## Connect With Me  
+## Connect With Me
 
-### Socials  
-<p>
-<a href="https://www.youtube.com/barisgunduzofficial" title="Barış Gündüz YouTube">
-<img align="left" alt="BG | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://twitter.com/iambarisgunduz" title="Barış Gündüz X">
-<img align="left" alt="BG | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/iambarisgunduz" title="Barış Gündüz Instagram">
-<img align="left" alt="BG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</p>
+### 🚀 Projects I Run
+These are the main platforms I'm actively developing and curating content for:
 
-<br />
+- **Part X Network** → [www.partxnetwork.com](https://www.partxnetwork.com)  
+  A creative network spanning cinema, sports, history, nature and more.
+- **Teeny Tiny Web** → [www.teenytinyweb.com](https://www.teenytinyweb.com)  
+  A place for tiny but mighty tools, templates and web utilities.
+- **Esnafon** → [www.esnafon.com](https://www.esnafon.com)  
+  A business directory and content platform for local entrepreneurs.
 
-### Projects  
-<p>
-<a href="https://www.partxnetwork.com/" title="Part X Network">
-<img align="left" alt="Part X Network" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x-pack.svg" />
-</a>
-<a href="https://www.teenytinyweb.com/" title="Teeny Tiny Web">
-<img align="left" alt="Teeny Tiny Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinboard.svg" />
-</a>
-<a href="https://www.esnafon.com/" title="Esnafon">
-<img align="left" alt="Esnafon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />
-</a>
-</p>
+### 🌐 Social Profiles  
+Follow me and stay updated with my work and daily content:
 
-<br />
+- **X (Twitter)** → [x.com/iambarisgunduz](https://x.com/iambarisgunduz)  
+- **Instagram** → [instagram.com/iambarisgunduz](https://www.instagram.com/iambarisgunduz)  
+- **YouTube** → [youtube.com/@barisgunduz](https://www.youtube.com/@barisgunduz)
 
-### Direct  
-<p>
-<a href="mailto:baris@gunduzmedya.com" title="Mail">
-<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />
-</a>
-<a href="https://www.gunduzmedya.com/" title="Gündüz Medya Website">
-<img align="left" alt="Gündüz Medya" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-<a href="https://www.linkedin.com/in/barisgunduz/" title="LinkedIn">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
+### 📬 Business Inquiries  
+Let’s connect for professional collaborations or consulting:
 
-<br />
+- **LinkedIn** → [linkedin.com/in/barisgunduz](https://www.linkedin.com/in/barisgunduz/)  
+- **Medium** → [barisgunduz.medium.com](https://barisgunduz.medium.com)
+
+### 🔗 All My Links  
+For everything else in one place:  
+- **Linktree** → [linktr.ee/barisgunduz](https://linktr.ee/barisgunduz)
 
 ---
 
