@@ -13,12 +13,12 @@ I am interested in web and mobile technologies. I have been working on web devel
 
 These are the main platforms I'm actively developing and curating content for:
 
--   **Part X Network** → [www.partxnetwork.com](https://www.partxnetwork.com)  
-    A creative network spanning cinema, sports, history, nature and more.
--   **Teeny Tiny Web** → [www.teenytinyweb.com](https://www.teenytinyweb.com)  
-    A place for tiny but mighty tools, templates and web utilities.
+-   **Vaktinde Ye** → [www.vaktindeye.com](https://www.partxnetwork.com)  
+    A wellness project that blends nutrition, motivation, and timing for a balanced life.
 -   **Esnafon** → [www.esnafon.com](https://www.esnafon.com)  
     A business directory and content platform for local entrepreneurs.
+-   **Teeny Tiny Web** → [Teeny Tiny Web (Vercel)](https://teeny-tiny-web.vercel.app/)  
+    A place for tiny but mighty tools, templates and web utilities.
 -   **Chrome Extensions** → [Chrome Web Store](https://chromewebstore.google.com/search/g%C3%BCnd%C3%BCz%20medya)  
     Handy browser tools developed to simplify daily digital tasks.
 
