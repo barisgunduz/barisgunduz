@@ -13,7 +13,7 @@ I am interested in web and mobile technologies. I have been working on web devel
 
 These are the main platforms I'm actively developing and curating content for:
 
--   **Vaktinde Ye** → [www.vaktindeye.com](https://www.partxnetwork.com)  
+-   **Vaktinde Ye** → [www.vaktindeye.com](https://www.vaktindeye.com)  
     A wellness project that blends nutrition, motivation, and timing for a balanced life.
 -   **Esnafon** → [www.esnafon.com](https://www.esnafon.com)  
     A business directory and content platform for local entrepreneurs.
