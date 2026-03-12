@@ -2,7 +2,7 @@
 
 Senior Software Engineer & product builder with 13+ years shipping web applications, SaaS platforms, and advertising tech.
 
-- 🔧 Specializing in **React / Next.js / Node.js**. I care as much about the product decisions behind the code as the code itself
+- 🔧 Specializing in **Javascript**. I care as much about the product decisions behind the code as the code itself
 - 🏆 Built enterprise systems, AI-powered SaaS platforms, and award-winning ad tech **(6× MMA Smarties & Mixx Awards)**
 - 🚀 Founder of **[Gündüz Medya](https://www.gunduzmedya.com)** shipping products like [Vaktinde Ye](https://www.vaktindeye.com), [Teeny Tiny Web](https://teeny-tiny-web.vercel.app/), and the Part X Network **(35M+ monthly views)**
 - ✍️ Writing about software & product on **[Medium](https://barisgunduz.medium.com)**
