@@ -4,7 +4,7 @@ Senior Software Engineer & product builder with 13+ years shipping web applicati
 
 - 🔧 Specializing in **Javascript**. I care as much about the product decisions behind the code as the code itself
 - 🏆 Built enterprise systems, AI-powered SaaS platforms, and award-winning ad tech **(6× MMA Smarties & Mixx Awards)**
-- 🚀 Founder of **[Gündüz Medya](https://www.gunduzmedya.com)** shipping products like [Vaktinde Ye](https://www.vaktindeye.com), [Teeny Tiny Web](https://teeny-tiny-web.vercel.app/), and  **[Movie Part X](https://www.instagram.com/moviepartx/)** **(30M+ monthly views with 120K followers)**
+- 🚀 Founder of **[Gündüz Medya](https://www.gunduzmedya.com)** shipping products like [Substrack](https://apps.apple.com/tr/app/substrack-payment-tracker/id6775582144), [Vaktinde Ye](https://www.vaktindeye.com), [Teeny Tiny Web](https://teeny-tiny-web.vercel.app/), and  **[Movie Part X](https://www.instagram.com/moviepartx/)** **(30M+ monthly views with 120K followers)**
 - ✍️ Writing about software & product on **[Medium](https://barisgunduz.medium.com)**
 - 🤝 Open to collaborating on product-driven engineering work
 
@@ -27,8 +27,8 @@ Senior Software Engineer & product builder with 13+ years shipping web applicati
 |---|---|---|
 | 🌐 | **Web Design & Development** | Custom web apps, architecture, and UI |
 | 📱 | **Mobile Apps** | Cross-platform mobile product development |
-| 🎯 | **Digital Media Ads** | Ad tech, campaign strategy, and execution |
-| 📡 | **Digital Media Consultancy** | Growth strategy for brands going digital |
+| 🎯 | **Digital Media Ads** | Ad tech, growth & campaign strategy, and execution |
+| 📡 | **Content Creation** | Video, visual and written content creation |
 
 > 💬 Open to cooperation on these and any other software or digital media topics.
 > 
