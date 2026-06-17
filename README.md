@@ -27,7 +27,7 @@ Senior Software Engineer & product builder with 13+ years shipping web applicati
 |---|---|---|
 | 🌐 | **Web Design & Development** | Custom web apps, architecture, and UI |
 | 📱 | **Mobile Apps** | Cross-platform mobile product development |
-| 🎯 | **Digital Media Ads** | Ad tech, growth & campaign strategy, and execution |
+| 🎯 | **Digital Media Strategy** | Ad tech, growth & campaign strategy, and execution |
 | 📡 | **Content Creation** | Video, visual and written content creation |
 
 > 💬 Open to cooperation on these and any other software or digital media topics.
